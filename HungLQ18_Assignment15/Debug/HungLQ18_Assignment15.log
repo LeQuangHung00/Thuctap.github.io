@@ -1,0 +1,8 @@
+﻿  Bai3.cpp
+E:\C++\HungLQ18_Assignment15\Bai3.cpp(29,1): error C2723: 'ZooAnimal::reptName': 'virtual' specifier illegal on function definition
+  Bai4.cpp
+E:\C++\HungLQ18_Assignment15\Bai4.cpp(56,13): error C2512: 'Mammal': no appropriate default constructor available
+E:\C++\HungLQ18_Assignment15\Bai4.cpp(33,7): message : see declaration of 'Mammal'
+  Bai7.cpp
+  Bai8.cpp
+  Generating Code...
