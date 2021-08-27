@@ -1,2 +1,0 @@
-E:\C++\Assignment8_HungLQ18\Debug\Assignment8_HungLQ18.exe
-E:\C++\Assignment8_HungLQ18\Debug\Assignment8_HungLQ18.pdb
